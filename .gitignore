@@ -1,8 +1,6 @@
 # Ignore datasets and large files
 *.csv
 *.xlsx
-*.pkl
-*.joblib
 
 # Python cache / venv
 __pycache__/

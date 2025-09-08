@@ -1,0 +1,16 @@
+# Ignore datasets and large files
+*.csv
+*.xlsx
+*.pkl
+*.joblib
+
+# Python cache / venv
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db

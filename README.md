@@ -27,4 +27,14 @@ Deployed on **Render** with CI/CD from GitHub.
 ├── runtime.txt # Python version (3.12.6 for Render)
 └── README.md # Project docs
 
+## 📂 Project Structure
+
+- 📜 `app.py` – Streamlit app  
+- 🤖 `model.pkl` – Trained ML model  
+- 📊 `cv.pkl` – CountVectorizer object  
+- 📝 `stopwords.pkl` – Stopwords list  
+- 📦 `requirements.txt` – Dependencies  
+- 🐍 `runtime.txt` – Python version (3.12.6 for Render)  
+- 📖 `README.md` – Project docs  
+
 
